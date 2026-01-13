@@ -52,11 +52,6 @@ fandango send-metadata my_project --visit-id <aria_visit_id>
 
 Full documentation: <https://DiamondLightSource.github.io/smartem-devtools>
 
-- [Installation](https://diamondlightsource.github.io/smartem-devtools/fandango/installation)
-- [Usage](https://diamondlightsource.github.io/smartem-devtools/fandango/usage)
-- [Metadata Schema](https://diamondlightsource.github.io/smartem-devtools/fandango/metadata-schema)
-- [Troubleshooting](https://diamondlightsource.github.io/smartem-devtools/fandango/troubleshooting)
-
 ## Related Repositories
 
 ### FandanGO Ecosystem
